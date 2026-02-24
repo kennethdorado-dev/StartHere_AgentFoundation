@@ -12,7 +12,7 @@ The core of this system lives in the `.agent` directory, containing specialized 
 
 ```
 .
-├── .agent/
+├── .agent/ <- "agent - hidden" folder. Be sure to rename after download
 │   ├── governance/          # Detailed role definitions and protocols
 │   │   ├── team_lead.md     # Master Orchestrator & Single Point of Entry
 │   │   ├── strategic_lead.md# Product strategy & RICE prioritization
